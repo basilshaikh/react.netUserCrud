@@ -1010,11 +1010,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Practice\\react.netUserCrud\\react.netUserCrud\\userApplication\\userApplication\\userApplication.csproj",
+      "projectUniqueName": "E:\\Practice\\react.netUserCrud\\userApplication\\userApplication\\userApplication.csproj",
       "projectName": "userApplication",
-      "projectPath": "E:\\Practice\\react.netUserCrud\\react.netUserCrud\\userApplication\\userApplication\\userApplication.csproj",
+      "projectPath": "E:\\Practice\\react.netUserCrud\\userApplication\\userApplication\\userApplication.csproj",
       "packagesPath": "C:\\Users\\Basil\\.nuget\\packages\\",
-      "outputPath": "E:\\Practice\\react.netUserCrud\\react.netUserCrud\\userApplication\\userApplication\\obj\\",
+      "outputPath": "E:\\Practice\\react.netUserCrud\\userApplication\\userApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Basil\\AppData\\Roaming\\NuGet\\NuGet.Config",

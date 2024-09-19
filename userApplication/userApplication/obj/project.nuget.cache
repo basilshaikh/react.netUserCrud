@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "blF6TG115DDkKXzI01Sks7WjRqkRWQdgCEbED7BQeJZQ7fCA+dCQ4JCprz7ILhYMXq92VeLDzFZ61daa+wSA0w==",
+  "dgSpecHash": "44btTkO+tgtNBJlpCve2lUH3alfdlSX1vUx2YQ/3Dh0TCw7hWNkDcWiXIeHRRuh4Mx8/Y+o9Br6k5gniWFXeEA==",
   "success": true,
-  "projectFilePath": "E:\\Practice\\react.netUserCrud\\react.netUserCrud\\userApplication\\userApplication\\userApplication.csproj",
+  "projectFilePath": "E:\\Practice\\react.netUserCrud\\userApplication\\userApplication\\userApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Basil\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Basil\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
